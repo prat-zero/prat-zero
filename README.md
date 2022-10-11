@@ -1,4 +1,4 @@
-### Hello world 👋
+[![my server lol](https://inv.wtf/widget/YZxuVj5Y)](https://inv.wtf/YZxuVj5Y)
 
 <!--
 **prat-zero/prat-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
